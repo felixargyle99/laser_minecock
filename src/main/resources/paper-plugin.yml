@@ -1,0 +1,4 @@
+name: laser_minecock
+version: '${project.version}'
+main: org.examplecock.laser_minecock.Laser_minecock
+api-version: '1.20'
